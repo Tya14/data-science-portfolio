@@ -1,23 +1,21 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nitya
 
-**Aspiring Data Scientist | Machine Learning Enthusiast | Fresh Graduate**
+**Data Science and Eocnomics Graduate**
 
-📍 [Your City, Country] · 📧 [your.email@example.com] · 💼 [LinkedIn](https://linkedin.com/in/yourprofile) · 🐦 [Twitter/X](https://twitter.com/yourhandle)
+📍 [Singapore] · 📧 [ramasamynitya03@gmail.com] · 💼 [LinkedIn](www.linkedin.com/in/nityaramasamy) 
 
 ---
 
 ## About Me
 
-I'm a recent graduate in [Your Degree, e.g. B.Sc. Computer Science / Statistics / Data Science] from [Your University]. I'm passionate about turning raw data into actionable insights and building machine learning systems that solve real-world problems.
-
-I'm actively looking for **Data Science / Machine Learning roles** where I can contribute to impactful projects, keep learning, and grow within a collaborative team.
+I'm a recent graduate in BSc Data Science and Economics from the National University of Singapore. I'm passionate about turning raw data into actionable insights and building machine learning systems that solve real-world problems. 
 
 **Core skills:**
-- **Languages:** Python, SQL, R *(pick what applies)*
+- **Languages:** Python, Java, SQL, R
 - **ML / DL:** scikit-learn, TensorFlow, PyTorch, XGBoost
 - **Data & Viz:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Tools:** Git, Docker, Jupyter, Streamlit, Airflow *(pick what applies)*
-- **Cloud:** AWS / GCP / Azure *(pick what applies)*
+- **Tools:** Git, Jupyter, Streamlit
+
 
 ---
 
@@ -120,21 +118,7 @@ I'm actively looking for **Data Science / Machine Learning roles** where I can c
 
 ---
 
-## 📜 Certifications *(optional)*
 
-- [Certification Name] — [Issuing Body] *(Year)*
-- [Certification Name] — [Issuing Body] *(Year)*
 
----
-
-## 📬 Get in Touch
-
-I'm open to full-time roles, internships, and collaborations. Feel free to reach out!
-
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter/X](https://twitter.com/yourhandle)
-
----
 
 *Last updated: [Month Year]*
