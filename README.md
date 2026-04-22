@@ -8,7 +8,7 @@
 
 ## Overview
 
-I'm a recent graduate in BSc Data Science and Economics from the National University of Singapore. I'm passionate about turning raw data into actionable insights and building machine learning systems that solve real-world problems. This repository showcases my data science projects, covering data analysis, machine learning, and data visualization. Each project focuses on solving real-world problems and communicating insights effectively.
+I'm a recent graduate in BSc Data Science and Economics from the National University of Singapore. This repository showcases my data science projects, covering data analysis, machine learning, and data visualization.
 
 
 **Core skills:**
