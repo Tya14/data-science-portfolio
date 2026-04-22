@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nitya
+# Machine Learning and Data Science Portfolio
 
 **Data Science and Eocnomics Graduate**
 
