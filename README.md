@@ -1,2 +1,2 @@
 # data-science-portfolio
-Data science portfolio showcasing projects in machine learning, data analysis, and visualizations.
+This is a repository of my finished and on-going data science projects
