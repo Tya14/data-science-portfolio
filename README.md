@@ -2,7 +2,7 @@
 
 **Data Science and Eocnomics Graduate**
 
-📍 [Singapore] · 📧 [ramasamynitya03@gmail.com] · 💼 [LinkedIn](www.linkedin.com/in/nityaramasamy) 
+📍 [Singapore] · 📧 [ramasamynitya03@gmail.com] · 💼 [LinkedIn]www.linkedin.com/in/nityaramasamy
 
 ---
 
