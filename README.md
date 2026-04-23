@@ -8,7 +8,7 @@
 
 ## Overview
 
-I'm a recent graduate in BSc Data Science and Economics from the National University of Singapore. This repository showcases my data science projects, covering data analysis, machine learning, and data visualization.
+Hi! I am Nitya, a recent graduate in BSc Data Science and Economics from the National University of Singapore. This repository showcases my data science projects, covering data analysis, machine learning, and data visualization.
 
 
 **Core skills:**
