@@ -19,13 +19,12 @@ I'm a recent graduate in BSc Data Science and Economics from the National Univer
 
 
 ---
-
 ## 📂 Project Summary
 
 | # | Project | Domain | Techniques | Tools |
 |---|---------|--------|------------|-------|
-| 1 | [Predicting Credit Risk](#1-predicting-credit-risk) | Finance / Tabular | Classification, Feature Engineering, SHAP | Python, scikit-learn, Pandas  |
-| 2 | [Singapore HDB Resale Price Prediction](#2-singapore-hdb-resale-price-prediction) | Real Estate / Geospatial | Regression, Feature Engineering, Geospatial Analysis | Python, LightGBM, GeoPandas  |
+| 1 | [Predicting Credit Risk](#1-predicting-credit-risk) | Finance / Tabular | Classification, Feature Engineering, SHAP | Python, scikit-learn, Pandas |
+| 2 | [Singapore HDB Resale Analytics Dashboard](#2-singapore-hdb-resale-analytics-dashboard-housingdash) | Real Estate / Analytics | EDA, SQL Aggregation, Data Visualisation | Python, Pandas, SQLite, Streamlit, Plotly |
 ---
 
 
@@ -56,28 +55,28 @@ I'm a recent graduate in BSc Data Science and Economics from the National Univer
 
 ---
 
-### 2. Singapore HDB Resale Price Prediction
+### 2. Singapore HDB Resale Analytics Dashboard (HousingDash)
 
-> **Predicting HDB resale prices using transaction history and geospatial features.**
+> **Interactive dashboard for exploring HDB resale trends, pricing patterns, and housing insights.**
 
-**Problem:** HDB resale prices in Singapore are influenced not just by flat attributes (type, floor, age) but also by location factors like proximity to MRT stations and schools. The goal was to build a regression model that captures both, helping buyers and sellers make more informed decisions.
+**Problem:** HDB resale data is large and complex, making it difficult to quickly extract insights on pricing trends across towns, flat types, and time periods. The goal was to build an interactive tool for efficient exploratory data analysis and decision-making.
 
 **Approach:**
-- Sourced 200,000+ historical HDB transactions from [data.gov.sg](https://data.gov.sg)
-- Enriched the dataset with geospatial features — MRT distance and school proximity — using the **OneMap API** and **GeoPandas**
-- Built a **LightGBM** regression model, iterating from a baseline (flat attributes only) to a full model with geospatial features
+- Built an end-to-end dashboard using **Streamlit, Pandas, and Plotly** for interactive data exploration
+- Implemented a **SQL-based pipeline (SQLite)** to efficiently query and aggregate 100K+ transactions (filters, GROUP BY, time-series analysis)
+- Performed data cleaning and feature engineering (date parsing, price per sqm, quarterly aggregation) to support analysis
+- Optimised performance using caching and dataset truncation (2005–2012) for responsive cloud deployment
 
 **Results:**
-- Achieved **RMSE of ~$38,000** on the test set
-- Adding geospatial features improved model performance by **9%** over the baseline
+- Enabled real-time filtering across towns, flat types, price ranges, and floor area
+- Delivered key insights via KPIs, price trends, distributions, and heatmaps
+- Successfully deployed a production-ready dashboard accessible via web interface
 
-**Key learnings:** Geospatial feature engineering made a meaningful difference — distance to the nearest MRT station was among the most predictive features. Working with the OneMap API also gave practical experience with government data APIs and coordinate-based joins at scale.
+**Key learnings:** Combining SQL with Python significantly improves performance for analytics workflows. Designing for usability (filters, layout, responsiveness) is just as important as analysis when building data products.
 
-📁 [Repo](https://github.com/yourname/hdb-price-prediction) · 📓 [Notebook](link)
+📁 [Repo]https://github.com/Tya14/HousingDash · 🌐 [Live Demo]https://housingdash-hfjkswgesykxjzxutwudv3.streamlit.app/
 
 ---
-
-
 
 ## 📚 Education
 
