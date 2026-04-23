@@ -1,6 +1,6 @@
 # Machine Learning and Data Science Portfolio
 
-**Data Science and Eocnomics Graduate**
+**Data Science and Economics Graduate**
 
 📍 [Singapore] · 📧 [ramasamynitya03@gmail.com] · 💼 [LinkedIn]www.linkedin.com/in/nityaramasamy
 
