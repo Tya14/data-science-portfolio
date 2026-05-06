@@ -51,7 +51,7 @@ Hi! I am Nitya, a recent graduate in BSc Data Science and Economics from the Nat
 
 **Key learnings:** Balancing precision and recall matters more than raw accuracy in credit risk — a false negative (missed default) is far more costly than a false positive. SHAP made the model's reasoning transparent and defensible, which is critical in a regulated domain like finance.
 
-📁 [Repo]([https://github.com/yourname/credit-risk](https://github.com/Tya14/Predicting-Credit-Risk))
+📁 [Repo]([[https://github.com/yourname/credit-risk](https://github.com/Tya14/Predicting-Credit-Risk)](https://github.com/Tya14/Predicting-Credit-Risk)
 
 ---
 
